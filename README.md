@@ -12,7 +12,7 @@ Além disso era necessário criar uma tabela-resumo contendo informações de to
 Para realizar isso, criei uma infraestrutura completa para bigdata que pode ser reproduzida localmente via docker-compose.
 
 ## Tech stack
-* Trino - Query Engine running together with MariaDB.
+* Trino - Query Engine rodando junto com MariaDB.
 * Minio - Para reproduzir um data lake como o S3 para armazenamento de objetos.
 * Hive Metastore - para termos um catalogo acessível via Trino e Spark.
 * Jupyter Lab - Para criação de notebooks em python para fluxos ETL utilizando Spark 3.0
