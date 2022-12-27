@@ -11,6 +11,9 @@ Além disso era necessário criar uma tabela-resumo contendo informações de to
 
 Para realizar isso, criei uma infraestrutura completa para bigdata que pode ser reproduzida localmente via docker-compose.
 
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/64164029/209688027-5b88b293-851d-4232-acbd-e8420e2d4596.png">
+
+
 ## Tech stack
 * Trino - Query Engine rodando junto com MariaDB.
 * Minio - Para reproduzir um data lake como o S3 para armazenamento de objetos.
