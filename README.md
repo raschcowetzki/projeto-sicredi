@@ -53,3 +53,5 @@ docker exec -it trino trino
 * Execute os comandos contidos no `init.sql` para criar o schema e as tabelas.(É possível conferir em tempo real a criação das tabelas dentro do apache superset)
 * Acesse o Apache superset e vá até SQL Lab para realizar querys nas tabelas.
 
+Para testes podemos utilizar a lib Great Expectations
+
